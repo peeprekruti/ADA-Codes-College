@@ -1,3 +1,5 @@
+# EXP1(b)
+
 #include<stdio.h>
 
 // Function Prototype
