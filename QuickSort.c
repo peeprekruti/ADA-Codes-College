@@ -70,3 +70,17 @@ int partition(int arr[], int low, int high)
 
     return j;
 }
+
+
+
+Sample Output:
+
+Enter number of values: 5
+Enter value 1: 5
+Enter value 2: 2
+Enter value 3: 8
+Enter value 4: 1
+Enter value 5: 4
+
+Sorted Array is:
+1    2    4    5    8
