@@ -54,3 +54,14 @@ int main()
 
     return 0;
 }
+
+Enter number of vertices: 3
+
+Enter adjacency matrix:
+0 1 1
+1 0 0
+1 0 0
+
+Enter starting vertex: 1
+
+DFS Traversal: 1 2 3
